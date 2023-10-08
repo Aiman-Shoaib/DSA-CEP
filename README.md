@@ -8,5 +8,7 @@ This report offers a detailed analysis of earthquake data, addressing key busine
 **GROUP MEMBERS**
 
 Aiman Manahil 20SW028
+
 Aisha Muzaffar 20SW052
+
 Zukhruda Memon 20SW076
